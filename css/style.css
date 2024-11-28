@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+
+
+}
+
+.container {
+width: 100%;
+   height: 100%;
+ 
+}
+
+.content {
+    position: absolute;
+    top: 30%;
+    color: black;
+    left: 150px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    line-height: 1.5;
+}
+
+.background-image {
+
+}
